@@ -28,5 +28,25 @@
     "discount": { "promoCode": "ВМЕСТЕ", "percent": 10 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
     "dateRange": { "to": "2026-03-01" }
+  },
+  "СЧАСТЬЕ": {
+    "content": {
+      "text": "Скидка 15% по промокоду СЧАСТЬЕ на первую сессию при оплате сегодня!",
+      "buttonText": "Получить предложение",
+      "showDiscount": { "currentPrice": 2882 }
+    },
+    "discount": { "promoCode": "СЧАСТЬЕ", "percent": 15 },
+    "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
+    "dateRange": {}
+  },
+  "ТЕПЛО": {
+    "content": {
+      "text": "Скидка 15% по промокоду ТЕПЛО на первую сессию при оплате сегодня!",
+      "buttonText": "Получить предложение",
+      "showDiscount": { "currentPrice": 2882 }
+    },
+    "discount": { "promoCode": "ТЕПЛО", "percent": 15 },
+    "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
+    "dateRange": {}
   }
 }
