@@ -3,7 +3,7 @@
     "content": {
       "text": "Промокод ПРОЛЮБОВЬ — пакеты сессий cо скидкой 25% до 28 февраля.\\nНе нашли контакт с первым психологом? Сессия со вторым — за наш счёт ❤️",
       "buttonText": "Получить предложение",
-      "showDiscount": { "currentPrice": 2543 }
+      "showDiscount": { "currentPrice": 2693 }
     },
     "discount": { "promoCode": "ПРОЛЮБОВЬ", "percent": 25 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
@@ -13,7 +13,7 @@
     "content": {
       "text": "Начните терапию мягко:\\n**-15% при покупке пакета от 3 сессий с кодом ПЕРВЫЙШАГ + бесплатная сессия в подарок**\\n~🧡 Поддержка ближе, чем кажется~",
       "buttonText": "Получить предложение",
-      "showDiscount": { "currentPrice": 2882 }
+      "showDiscount": { "currentPrice": 3051 }
     },
     "discount": { "promoCode": "ПЕРВЫЙШАГ", "percent": 15 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
@@ -23,7 +23,7 @@
     "content": {
       "text": "Начните терапию мягко:\\n**-10% при покупке пакета от 5 сессий с кодом ВМЕСТЕ + бесплатная сессия в подарок**\\n~🧡 Поддержка ближе, чем кажется~",
       "buttonText": "Получить предложение",
-      "showDiscount": { "currentPrice": 3051 }
+      "showDiscount": { "currentPrice": 3231 }
     },
     "discount": { "promoCode": "ВМЕСТЕ", "percent": 10 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
@@ -33,7 +33,7 @@
     "content": {
       "text": "Скидка 15% по промокоду СЧАСТЬЕ на первую сессию при оплате сегодня!",
       "buttonText": "Получить предложение",
-      "showDiscount": { "currentPrice": 2882 }
+      "showDiscount": { "currentPrice": 3051 }
     },
     "discount": { "promoCode": "СЧАСТЬЕ", "percent": 15 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
@@ -43,7 +43,7 @@
     "content": {
       "text": "Скидка 15% по промокоду ТЕПЛО на первую сессию при оплате сегодня!",
       "buttonText": "Получить предложение",
-      "showDiscount": { "currentPrice": 2882 }
+      "showDiscount": { "currentPrice": 3051 }
     },
     "discount": { "promoCode": "ТЕПЛО", "percent": 15 },
     "style": { "backgroundColor": "#0c386b", "textColor": "#fff" },
